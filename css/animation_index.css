@@ -6,19 +6,5 @@
         from{top: 10px;}
         to{top: -44px;}
     }
-    
-    /* .intro_art Animation */
-    .intro_art_ani{animation: goUpArt 1s ease; height: 500px; position: relative;}
-    @keyframes goUpArt{
-        from{top: 50px; opacity: 0;}
-        to{top: 0; opacity: 1;}
-    }
-
-    /* .appear -> service & app */
-    .appear{animation: appear 2s ease;}
-    @keyframes appear{
-        from{opacity: 0;}
-        to{opacity: 1;}
-    }
-
 }
+
