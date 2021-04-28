@@ -55,8 +55,8 @@ function setAnimation(range1, range2, doAnimation){
 
 function init(){
     setAnimation(700, 1800, doAnimationArticles);
-    setAnimation(1200, 2800, doAnimationService);
-    setAnimation(2100, 3500, doAnimationApp);
+    setAnimation(1400, 2800, doAnimationService);
+    setAnimation(2300, 3500, doAnimationApp);
 }
 
 init();
