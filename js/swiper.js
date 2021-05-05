@@ -156,11 +156,7 @@ function swiperService(){
       } else{
         target.style.transform = `translate3d(${i*-1224}px, 0px, 0px)`;
       }
-      
-      // Movement of MENU according to SLIDE
-      
-      
-      
+           
       // Add & remove the classes on SLIDES
       let class_name = `slide_0${i+1}`
 
