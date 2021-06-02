@@ -88,10 +88,6 @@ nav .menu_mobile li a:hover{background: var(--bg_color2); color: var(--font_colo
 #service{height: auto;}
 #service .container{border-top: 1px solid var(--font_color_n1); position: relative;}
 #service h2{padding-top: 120px; margin-bottom: 30px; color: var(--font_color_b); font-size: var(--font-h2); text-align: center;}
-
-
-/* .ser_list{width: 100vw; white-space: nowrap; position: relative; left: -30px; box-sizing: border-box; padding: 5px 0px 5px 30px; margin-top: 65px; overflow: hidden;}
-.ser_list li{display: inline-block;} */
 .ser_list{width: 85vw;}
 .ser_list li{width: auto; margin: 0 7px;}
 .ser_list li a{display: block; font-size: var(--font-c1); color: var(--font_color_n1); padding: 5px 10px;}

@@ -3,8 +3,8 @@
     /* .intro_tada Animation */
     .intro_tada_ani{animation: goUpTada 2s ease;}
     @keyframes goUpTada{
-        from{top: 10px;}
-        to{top: -44px;}
+        from{ transform: translateY(40px);}
+        to{ transform: translateY(0);}
     }
 }
 
