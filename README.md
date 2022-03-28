@@ -8,6 +8,8 @@
 Swiper.js Api를 사용하면서 Api를 가져와서 사용하는 것 뿐만 아니라,
 기존 bundle코드를 이해하고 프로젝트에 맞게 커스터마이징 하여 적용하는 것을 연습했습니다.
 
+- 링크: https://greatasher7.github.io/Tada_Cloning/
+
 
 * Keywords
 
